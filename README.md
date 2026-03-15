@@ -1,29 +1,49 @@
-<h1 align="center">Hi 👋, I'm Noé Ibáñez Torres</h1>  
-<h3 align="center">A passionate Mobile & Full Stack Developer from Spain, with a love for building impactful solutions.</h3>
+### 👋 Hola, soy Noé Ibáñez Torres
 
-- 🔭 I’m currently working at **Estetical**, improving user experiences through SaaS solutions for the beauty industry.  
-- 🌱 Currently learning and mastering **CI/CD pipelines, React Native (without Expo), and TypeScript**.  
-- 👨‍💻 Previous collaborations with **Bubbo** and **4Geeks Academy** as a key contributor to multiple mobile and web development projects.  
-- 💬 Ask me about **React Native, JavaScript, Python, and CI/CD architecture**.  
-- 👯 I’m open to collaborating on **challenging projects that push me to grow**.  
-- 📫 Reach me at **noesersi@gmail.com**  
-- ⚡ Fun fact: **I love solving complex problems and making them simple!**
 
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://linkedin.com/in/noesersi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>  
-</p>
+Mobile & Full Stack Developer at [Estetical](https://estetical.es/).  
+I turn product ideas into beautiful, intuitive apps. Always leveraging new advances to grow faster and stronger.
 
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left">  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>  
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>  
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>  
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>  
-</p>
+- 🔭 Currently working on **[BookChallenge](https://github.com/NITDev94/BookChallenge)** with my partner
+- 👫 She's a brilliant product mind (should be an engineer!) · I bring the code ☕
+- 🚀 Together we're an unstoppable team — and we have a blast doing it
+- 🌱 Always learning new things
+- 📫 **Let's connect:**
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noesersi/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nitorresdev@gmail.com)
+---
+
+### 📚 BookChallenge
+
+A personal project born from the perfect combo: her product ideas and my passion for code.  
+We're building something fun, social, and made for readers who love a good challenge.
+
+🔗 **[Check the repository →](https://github.com/NITDev94/BookChallenge)**
+
+---
+
+### 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITDev94&layout=compact&hide_border=true&theme=radical" width="45%"/>
+
+---
+
+### ⚡ A bit more about me
+
+```yaml
+location: Paris
+current_focus: Building BookChallenge as a hobby and shipping code at Estetical.
+coffee_status: Always needed
+fun_fact: I love cats
